@@ -1,4 +1,4 @@
-# CMPT 1105 Print Separator
+# CMPT 1105 | Print Separator
 
 In Python, you can add a separator between string arguments in `print` function by using the argument `sep`.
 
